@@ -6,7 +6,7 @@
   Supports scheduling for regular job applications.
   Logs applied jobs for tracking purposes.
 # Requirements
-- GO 19.x: The bot is written in Python.
+- GO 19.x: The bot is written in GO.
 -  Indeed.com Account: An active account is necessary to apply for jobs.
 -  Any other dependencies listed in requirements.txt.
 # Installation
