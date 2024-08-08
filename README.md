@@ -22,5 +22,5 @@
 # Usage
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]([https://example.com](https://github.com/FatherCooks/Indeed-Auto-Apply-Job-Monitor/edit/main/MIT%20license.md))
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/FatherCooks/Indeed-Auto-Apply-Job-Monitor/edit/main/MIT%20license.md)
  file for details.
