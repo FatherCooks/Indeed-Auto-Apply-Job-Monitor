@@ -13,8 +13,8 @@
 1. Clone the repository:
    
     ```Clone Repository
-    git clone https://github.com/FatherCooks/Indeed-Auto-Apply-Job-Monitor
-t.git
+    git clone https://github.com/FatherCooks/Indeed-Auto-Apply-Job-Monitor.git
+    
     cd indeed-auto-apply-bot
 
 2. Install dependencies:
