@@ -6,7 +6,7 @@
   Supports scheduling for regular job applications.
   Logs applied jobs for tracking purposes.
 # Requirements
-- GO 19.x: The bot is written in GO.
+- GO 1.19: The bot is written in GO.
 -  Indeed.com Account: An active account is necessary to apply for jobs.
 -  Any other dependencies listed in requirements.txt.
 # Installation
@@ -15,7 +15,7 @@
     ```Clone Repository
     git clone https://github.com/FatherCooks/Indeed-Auto-Apply-Job-Monitor.git
     
-    cd indeed-auto-apply-bot
+    cd Indeed-Auto-Apply-Job-Monitor
 
 2. Install dependencies:
 
